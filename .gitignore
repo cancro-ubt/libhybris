@@ -66,4 +66,12 @@ hybris/tests/test_lights
 hybris/tests/test_offscreen_rendering
 hybris/tests/test_sensors
 hybris/tests/test_ui
+hybris/media/libmedia.pc
+hybris/tests/test_audio
+hybris/tests/test_hwcomposer
+hybris/tests/test_media
+hybris/tests/test_recorder
+hybris/tests/test_vibrator
+hybris/tests/test_wifi
+hybris/wifi/libwifi.pc
 
